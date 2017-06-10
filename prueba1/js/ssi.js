@@ -1,0 +1,3 @@
+function mModal(){
+	$('#inicioSesion').modal()
+}

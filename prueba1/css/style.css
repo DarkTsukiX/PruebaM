@@ -1,0 +1,50 @@
+body{
+	font-family: 'Abel', sans-serif;
+}
+/*header*/
+
+#header-container{
+	background-color: #1c3643;
+	color: #ccd0d2;
+}
+
+#header-container a {
+	font-size: 20px;
+	color: #ccd0d2;
+	margin-left: 15px;
+}
+
+
+
+
+
+
+/*articulo*/
+#articulo {
+	padding: 1em auto;
+}
+
+#titulo-arti{
+	margin-top: 8px;
+}
+
+.img-titulo {
+	width: 100%;
+	height: 150px;
+
+}
+
+.perfil{
+	width: 100px;
+	height: 100px;
+	padding-bottom: 1em;
+}
+
+#Comen{
+	background-color: #ccd0d2
+}
+#res-comen{
+	background-color: #ffffff;
+	margin-top: 10px;
+	padding-top: 5px;
+}
